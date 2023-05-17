@@ -1,0 +1,203 @@
+[
+    {
+        "instruction": "提供一個機器學習的使用案例。",
+        "input": "",
+        "output": "機器學習的一個使用案例是垃圾郵件過濾系統。它使用ML演算法來檢測垃圾郵件並將其從使用者的收件箱中過濾出去。"
+    },
+    {
+        "instruction": "Come up with an acronym which summarizes the following list of words.",
+        "input": "Friendship, Compassion, Respect",
+        "output": "F.C.R.（友誼，同情，尊重）"
+    },
+    {
+        "instruction": "Generate the missing part of the following SQL query.",
+        "input": "SELECT * FROM table",
+        "output": "\"WHERE 條件;\""
+    },
+    {
+        "instruction": "Find a specific Wikipedia page.",
+        "input": "The page should be about the life of Joan of Arc.",
+        "output": "https://zh.wikipedia.org/wiki/%E7%93%8A%E5%AE%89%C2%B7%E9%81%93%E5%A5%87"
+    },
+    {
+        "instruction": "Create a recipe for an omelette.",
+        "input": "",
+        "output": "材料：\n- 2個雞蛋\n- 2湯匙牛奶\n- 1湯匙黃油\n- 鹽和胡椒粉適量\n\n做法：\n1. 在碗中將雞蛋和牛奶攪拌均勻。\n2. 在平底鍋中加熱黃油，火力中高。\n3. 將雞蛋混合物倒入平底鍋中，加入鹽和胡椒粉調味。\n4. 煮至邊緣微微變脆，然後翻轉煎餅。\n5. 煮另一面至金黃色，然後離火。\n6. 熱著享用！"
+    },
+    {
+        "instruction": "List the countries in the South American continent.",
+        "input": "",
+        "output": "南美洲國家包括阿根廷、玻利維亞、巴西、智利、哥倫比亞、厄瓜多、蓋亞那、巴拉圭、秘魯、蘇利南、烏拉圭和委內瑞拉。"
+    },
+    {
+        "instruction": "編制一份英格蘭五大著名地標的清單。",
+        "input": "",
+        "output": "1. 巨石陣\n2. 倫敦塔\n3. 大笨鐘\n4. 聖保羅大教堂\n5. 白金漢宮"
+    },
+    {
+        "instruction": "構思一個勇氣的比喻。",
+        "input": "",
+        "output": "勇氣就像熊熊燃燒的火焰，明亮而強大，隨時準備迎接任何挑戰。"
+    },
+    {
+        "instruction": "In what ways can this technology improve a person's life?",
+        "input": "Technology: Virtual reality",
+        "output": "虛擬現實技術可以用於多種方式來改善人們的生活，例如提供身臨其境的娛樂體驗、協助治療、教育計畫、以及提供資料的增強視覺化。"
+    },
+    {
+        "instruction": "發生火災時最常見的應急程式是什麼？",
+        "input": "",
+        "output": "發生火災時最常見的緊急程式是疏散大樓並撥打 911。每個人都應儘快、冷靜地離開大樓，確保所有門窗都關閉，以免火勢蔓延。此外，每個人都應該靠近地面（如果可能的話爬行）以避免煙霧和熱量。一旦外出，人們應移動到與建築物保持安全距離的地方，並撥打 911 通知消防部門。"
+    },
+    {
+        "instruction": "Given the following python function, what is the result of calling it with the following argument: count_words('Loving living life')",
+        "input": "",
+        "output": "呼叫 count_words('Loving living life') 的結果是 3。"
+    },
+    {
+        "instruction": "列出三個開始對話的最佳實踐。",
+        "input": "",
+        "output": "開始對話的一些最佳實踐包括：1）直接提出開放式問題。2）保持熱情友好。3）透過讚美和傾聽對方的話顯示真正的興趣。"
+    },
+    {
+        "instruction": "Given a list of items, reorder them according to some criterion.",
+        "input": "Blueberries, Bananas, Apples, Oranges",
+        "output": "蘋果、橙子、香蕉、藍莓"
+    },
+    {
+        "instruction": "提供兩個非言語溝通的例子。",
+        "input": "",
+        "output": "非語言溝通的兩個例子是身體語言和麵部表情。例如，微笑、避免眼神接觸、抓頭皮和交叉手臂都是身體語言的形式，可以傳達不同的資訊。同樣地，皺眉頭、眯起眼睛、假笑和點頭都是面部表情的例子，可以傳達資訊。"
+    },
+    {
+        "instruction": "計算折扣後的價格。",
+        "input": "原價：$100，折扣：15%",
+        "output": "打折15%後的價格是85美元。"
+    },
+    {
+        "instruction": "假設你正在為一家比薩餐廳建立網站，請寫一個簡短的歡迎資訊，網站將顯示該資訊。",
+        "input": "",
+        "output": "歡迎來到比薩皇宮！我們提供城裡最好吃的比薩，使用新鮮美味的食材製作。請進來和您的家人朋友一起享用一兩片吧！"
+    },
+    {
+        "instruction": "Develop a marketing plan within 100 words.",
+        "input": "",
+        "output": "我們的營銷計劃是利用各種數字平臺，包括社交媒體和搜尋引擎最佳化，來接觸我們的目標受眾。我們還將利用影響力營銷和電子郵件活動來最大化我們的影響力，擴大我們的市場份額。我們將建立關注我們公司的優勢和核心價值的內容，並在我們的社交渠道上發布。我們還將製作影片廣告來推廣我們的主要產品和服務。最後，我們將跟蹤我們的結果，以確保我們達到了我們的目標。"
+    },
+    {
+        "instruction": "列出三種因衛生和環境不良而引起的疾病。",
+        "input": "",
+        "output": "由於衛生和環境不良所引起的三種疾病是霍亂、傷寒和腸道寄生蟲。"
+    },
+    {
+        "instruction": "Generate a metaphor to describe the following situation. Output the metaphor.",
+        "input": "Failure",
+        "output": "失敗就像一條黑暗的隧道 - 無論它有多難穿越，最終你都會走出另一端，走向光明。"
+    },
+    {
+        "instruction": "How to make fruit salad.",
+        "input": "",
+        "output": "製作美味清爽的水果沙拉，您需要2-3杯您喜歡的新鮮水果，例如莓類、葡萄、蘋果、橙子、鳳梨和香蕉。首先將水果洗淨，切成小塊。將水果放入碗中，加入一湯匙檸檬汁，再加入一湯匙蜂蜜，攪拌均勻。冷藏後享用！"
+    },
+    {
+        "instruction": "建議一個演講的標題，關於科技如何塑造我們的生活。",
+        "input": "",
+        "output": "科技在塑造我們生活中的角色"
+    },
+    {
+        "instruction": "建立野餐專案列表。",
+        "input": "",
+        "output": "野餐清單應包括以下專案：三明治、薯片、水果、蔬菜、餅乾、塗抹醬、乳酪、飲料和零食。可選物品可能包括餐具和盤子、坐毯、防曬霜、帽子和太陽鏡、驅蟲劑、撲克牌或棋盤遊戲、飛盤或玩球，以及必要時的冰袋。"
+    },
+    {
+        "instruction": "Identify what type of machine learning technique would be applicable for the given task description.",
+        "input": "Given a large dataset of images, create a model that can accurately classify the images.",
+        "output": "這個任務適用的機器學習技術是卷積神經網路（CNN）。CNN通常用於影象分類任務，能夠檢測視覺資料中的模式。"
+    },
+    {
+        "instruction": "建議在週末和朋友一起做4個娛樂活動。",
+        "input": "",
+        "output": "以下是週末可以和朋友一起做的四個娛樂活動：\n1. 舉辦遊戲之夜\n2. 去看電影\n3. 打保齡球\n4. 野餐"
+    },
+    {
+        "instruction": "Describe a protagonist of a dystopian novel.",
+        "input": "",
+        "output": "一個反烏託邦小說的主角通常是一個普通人，被迫做出艱難的選擇並為自己的生存而戰。他們通常來自弱勢背景，是腐敗體制或政府的受害者或反抗者。他們與不可能的情況作鬥爭，或者利用他們的智慧或決心來揭開反烏託邦世界的神秘面紗。他們常常必須在道德困境中掙扎才能生存，最終可能成功也可能失敗。反烏託邦小說的主角通常是希望和勇氣的象徵，面對逆境。他們可以是有缺陷的角色或美德的典範，但他們總是反映出真實人們在壓力和壓迫的情況下的鬥爭。"
+    },
+    {
+        "instruction": "建議提供以下句子的替代方案。",
+        "input": "貓在房子周圍走來走去。",
+        "output": "貓在住所周圍漫遊。"
+    },
+    {
+        "instruction": "編寫 C 程式碼列印以下語句。",
+        "input": "鈴兒響叮噹，鈴兒響叮噹，一路叮噹",
+        "output": "#include&lt;stdio.h&gt;\n\n主函式()\n{\n  printf(&quot;鈴兒響叮噹，鈴兒響叮噹，一路叮噹\\n&quot;);\n  返回 0；\n}"
+    },
+    {
+        "instruction": "舉例說明給定的 AI 技術可能有用的情況。",
+        "input": "這是一種基於人工智慧的影象識別技術。",
+        "output": "基於人工智慧的影象識別技術可能有用的一個例子是在醫院環境中。基於人工智慧的影象識別技術可用於監控正在執行的手術數量和入院患者數量，幫助醫院更有效地分配資源。它還可用於快速檢測癌症和其他醫療狀況等疾病的診斷影象，從而提供更快、更準確的診斷。"
+    },
+    {
+        "instruction": "撰寫一首五行詩，描述森林中的早晨。",
+        "input": "",
+        "output": "森林公平的早晨，\n色彩繪製了氛圍。\n輕薄霧覆蓋著地面，\n鳥兒翩翩起舞。\n早晨的霧氣增添了一層歡樂！"
+    },
+    {
+        "instruction": "Construct five queries for a given database.",
+        "input": "Table: Items",
+        "output": "1. 選擇所有專案從專案表中：SELECT * FROM Items;\n2. 選擇專案編號、專案名稱和價格從專案表中：SELECT ItemID, ItemName, Price FROM Items;\n3. 選擇專案名稱從專案表中，價格大於100：SELECT ItemName FROM Items WHERE Price > 100;\n4. 選擇所有專案從專案表中，專案名稱包含'book'：SELECT * FROM Items WHERE ItemName LIKE '%book%';\n5. 更新專案表中專案編號為4的價格為150：UPDATE Items SET Price = 150 WHERE ItemID = 4;"
+    },
+    {
+        "instruction": "Create an example input given the instruction, \"Find the average temperature of Los Angeles on a given date\".",
+        "input": "Date: December 15, 2020",
+        "output": "2020年12月15日洛杉磯的平均氣溫為華氏70.5度。"
+    },
+    {
+        "instruction": "決定應該使用哪種方法來解決這個方程式：",
+        "input": "'2y + 6 = 10' 的繁體中文翻譯為：「2y + 6 = 10」。",
+        "output": "減法"
+    },
+    {
+        "instruction": "Imagine you are a teacher and a student has asked you a complicated question. Write an answer that encourages him or her to think about the problem and reach the solution on their own.",
+        "input": "How does the human brain work?",
+        "output": "那是一個有趣的問題！如果你試著花時間探索大腦及其過程，我相信你可以想出自己的答案。你有任何想法從哪裡開始嗎？思考大腦的不同功能以及它們如何共同作用來產生我們體驗到的意識，可以幫助我們形成對其運作方式的理解。"
+    },
+    {
+        "instruction": "解釋核燃料如何產生能量。",
+        "input": "",
+        "output": "核能是透過裂變產生的，即在核反應堆內分裂原子。這釋放出能量，用於產生熱能。然後利用這種熱能產生蒸汽，用於驅動渦輪機發電。鈾是用於生產核能的最常見核燃料。其他核燃料包括鈽、釷和聚變燃料。這些燃料用於核反應堆中以產生能量。"
+    },
+    {
+        "instruction": "設計一個演演算法來檢測文章中的假新聞。",
+        "input": "",
+        "output": "檢測文章中的假新聞的演演算法可能包括以下步驟：\n\n1. 收集要評估的文章\n2. 透過評估文章的結構，提取事實陳述並使用可靠來源進行事實檢查，為每篇文章建立指紋。\n3. 使用機器學習或自然語言處理演演算法識別和分類任何欺騙性敘述或語言。\n4. 如果檢測到虛假文章，向用戶報告結果並採取措施來抵制該文章。"
+    },
+    {
+        "instruction": "產生一個新聞標題，關於特朗普總統對全球暖化政策的立場。",
+        "input": "",
+        "output": "特朗普政府忽略全球暖化的迫切性，儘管有越來越多的證據。"
+    },
+    {
+        "instruction": "提供三個可能的改進方法，使句子更有效。",
+        "input": "在這篇文章中，我們介紹了有關噪音對集體智慧的影響的研究結果。",
+        "output": "1. 本文探討噪音對集體智慧的影響。\n2. 在這裡，我們研究噪音對集體智慧的後果。\n3. 我們的研究討論噪音對集體智慧的影響。"
+    },
+    {
+        "instruction": "將這個句子從主動態轉換為被動態。",
+        "input": "今天我們將做出決定。",
+        "output": "今天將會做出決定。"
+    },
+    {
+        "instruction": "Arrange the following numbers in descending order: 3,2,-1,4,6",
+        "input": "",
+        "output": "'6, 4, 3, 2, -1' 的繁體中文翻譯為：'6、4、3、2、-1'。"
+    },
+    {
+        "instruction": "Generate a checklist for getting a job",
+        "input": "",
+        "output": "- 研究潛在僱主和職位\n- 與職場上的聯絡人建立網路\n- 更新簡歷和求職信\n- 為面試做準備\n- 進行模擬面試\n- 決定接受哪份工作\n- 協商薪酬\n- 接受工作邀請"
+    }
+   
+]
