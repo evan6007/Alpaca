@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "提供一個機器學習的使用案例。",
+        "input": "",
+        "output": "機器學習的一個使用案例是垃圾郵件過濾系統。它使用ML演算法來檢測垃圾郵件並將其從使用者的收件箱中過濾出去。"
+    },
+    {
+        "instruction": "Come up with an acronym which summarizes the following list of words.",
+        "input": "Friendship, Compassion, Respect",
+        "output": "F.C.R.（友誼，同情，尊重）"
+    },
+    {
+        "instruction": "Generate the missing part of the following SQL query.",
+        "input": "SELECT * FROM table",
+        "output": "\"WHERE 條件;\""
+    },
+    {
+        "instruction": "Find a specific Wikipedia page.",
+        "input": "The page should be about the life of Joan of Arc.",
+        "output": "https://zh.wikipedia.org/wiki/%E7%93%8A%E5%AE%89%C2%B7%E9%81%93%E5%A5%87"
+    },
+    {
+        "instruction": "Create a recipe for an omelette.",
+        "input": "",
+        "output": "材料：\n- 2個雞蛋\n- 2湯匙牛奶\n- 1湯匙黃油\n- 鹽和胡椒粉適量\n\n做法：\n1. 在碗中將雞蛋和牛奶攪拌均勻。\n2. 在平底鍋中加熱黃油，火力中高。\n3. 將雞蛋混合物倒入平底鍋中，加入鹽和胡椒粉調味。\n4. 煮至邊緣微微變脆，然後翻轉煎餅。\n5. 煮另一面至金黃色，然後離火。\n6. 熱著享用！"
+    },
+    {
+        "instruction": "List the countries in the South American continent.",
+        "input": "",
+        "output": "南美洲國家包括阿根廷、玻利維亞、巴西、智利、哥倫比亞、厄瓜多、蓋亞那、巴拉圭、秘魯、蘇利南、烏拉圭和委內瑞拉。"
+    },
+    {
+        "instruction": "編制一份英格蘭五大著名地標的清單。",
+        "input": "",
+        "output": "1. 巨石陣\n2. 倫敦塔\n3. 大笨鐘\n4. 聖保羅大教堂\n5. 白金漢宮"
+    },
+    {
+        "instruction": "構思一個勇氣的比喻。",
+        "input": "",
+        "output": "勇氣就像熊熊燃燒的火焰，明亮而強大，隨時準備迎接任何挑戰。"
+    },
+    {
+        "instruction": "In what ways can this technology improve a person's life?",
+        "input": "Technology: Virtual reality",
+        "output": "虛擬現實技術可以用於多種方式來改善人們的生活，例如提供身臨其境的娛樂體驗、協助治療、教育計畫、以及提供資料的增強視覺化。"
+    },
+    {
+        "instruction": "發生火災時最常見的應急程式是什麼？",
+        "input": "",
+        "output": "發生火災時最常見的緊急程式是疏散大樓並撥打 911。每個人都應儘快、冷靜地離開大樓，確保所有門窗都關閉，以免火勢蔓延。此外，每個人都應該靠近地面（如果可能的話爬行）以避免煙霧和熱量。一旦外出，人們應移動到與建築物保持安全距離的地方，並撥打 911 通知消防部門。"
+    },
+    {
+        "instruction": "Given the following python function, what is the result of calling it with the following argument: count_words('Loving living life')",
+        "input": "",
+        "output": "呼叫 count_words('Loving living life') 的結果是 3。"
+    },
+    {
+        "instruction": "列出三個開始對話的最佳實踐。",
+        "input": "",
+        "output": "開始對話的一些最佳實踐包括：1）直接提出開放式問題。2）保持熱情友好。3）透過讚美和傾聽對方的話顯示真正的興趣。"
+    },
+    {
+        "instruction": "Given a list of items, reorder them according to some criterion.",
+        "input": "Blueberries, Bananas, Apples, Oranges",
+        "output": "蘋果、橙子、香蕉、藍莓"
+    },
+    {
+        "instruction": "提供兩個非言語溝通的例子。",
+        "input": "",
+        "output": "非語言溝通的兩個例子是身體語言和麵部表情。例如，微笑、避免眼神接觸、抓頭皮和交叉手臂都是身體語言的形式，可以傳達不同的資訊。同樣地，皺眉頭、眯起眼睛、假笑和點頭都是面部表情的例子，可以傳達資訊。"
+    },
+    {
+        "instruction": "計算折扣後的價格。",
+        "input": "原價：$100，折扣：15%",
+        "output": "打折15%後的價格是85美元。"
+    },
+    {
+        "instruction": "假設你正在為一家比薩餐廳建立網站，請寫一個簡短的歡迎資訊，網站將顯示該資訊。",
+        "input": "",
+        "output": "歡迎來到比薩皇宮！我們提供城裡最好吃的比薩，使用新鮮美味的食材製作。請進來和您的家人朋友一起享用一兩片吧！"
+    },
+    {
+        "instruction": "Develop a marketing plan within 100 words.",
+        "input": "",
+        "output": "我們的營銷計劃是利用各種數字平臺，包括社交媒體和搜尋引擎最佳化，來接觸我們的目標受眾。我們還將利用影響力營銷和電子郵件活動來最大化我們的影響力，擴大我們的市場份額。我們將建立關注我們公司的優勢和核心價值的內容，並在我們的社交渠道上發布。我們還將製作影片廣告來推廣我們的主要產品和服務。最後，我們將跟蹤我們的結果，以確保我們達到了我們的目標。"
+    },
+    {
+        "instruction": "列出三種因衛生和環境不良而引起的疾病。",
+        "input": "",
+        "output": "由於衛生和環境不良所引起的三種疾病是霍亂、傷寒和腸道寄生蟲。"
+    },
+    {
+        "instruction": "Generate a metaphor to describe the following situation. Output the metaphor.",
+        "input": "Failure",
+        "output": "失敗就像一條黑暗的隧道 - 無論它有多難穿越，最終你都會走出另一端，走向光明。"
+    },
+    {
+        "instruction": "How to make fruit salad.",
+        "input": "",
+        "output": "製作美味清爽的水果沙拉，您需要2-3杯您喜歡的新鮮水果，例如莓類、葡萄、蘋果、橙子、鳳梨和香蕉。首先將水果洗淨，切成小塊。將水果放入碗中，加入一湯匙檸檬汁，再加入一湯匙蜂蜜，攪拌均勻。冷藏後享用！"
+    },
+    {
+        "instruction": "建議一個演講的標題，關於科技如何塑造我們的生活。",
+        "input": "",
+        "output": "科技在塑造我們生活中的角色"
+    },
+    {
+        "instruction": "建立野餐專案列表。",
+        "input": "",
+        "output": "野餐清單應包括以下專案：三明治、薯片、水果、蔬菜、餅乾、塗抹醬、乳酪、飲料和零食。可選物品可能包括餐具和盤子、坐毯、防曬霜、帽子和太陽鏡、驅蟲劑、撲克牌或棋盤遊戲、飛盤或玩球，以及必要時的冰袋。"
+    },
+    {
+        "instruction": "Identify what type of machine learning technique would be applicable for the given task description.",
+        "input": "Given a large dataset of images, create a model that can accurately classify the images.",
+        "output": "這個任務適用的機器學習技術是卷積神經網路（CNN）。CNN通常用於影象分類任務，能夠檢測視覺資料中的模式。"
+    },
+    {
+        "instruction": "建議在週末和朋友一起做4個娛樂活動。",
+        "input": "",
+        "output": "以下是週末可以和朋友一起做的四個娛樂活動：\n1. 舉辦遊戲之夜\n2. 去看電影\n3. 打保齡球\n4. 野餐"
+    },
+    {
+        "instruction": "Describe a protagonist of a dystopian novel.",
+        "input": "",
+        "output": "一個反烏託邦小說的主角通常是一個普通人，被迫做出艱難的選擇並為自己的生存而戰。他們通常來自弱勢背景，是腐敗體制或政府的受害者或反抗者。他們與不可能的情況作鬥爭，或者利用他們的智慧或決心來揭開反烏託邦世界的神秘面紗。他們常常必須在道德困境中掙扎才能生存，最終可能成功也可能失敗。反烏託邦小說的主角通常是希望和勇氣的象徵，面對逆境。他們可以是有缺陷的角色或美德的典範，但他們總是反映出真實人們在壓力和壓迫的情況下的鬥爭。"
+    },
+    {
+        "instruction": "建議提供以下句子的替代方案。",
+        "input": "貓在房子周圍走來走去。",
+        "output": "貓在住所周圍漫遊。"
+    },
+    {
+        "instruction": "編寫 C 程式碼列印以下語句。",
+        "input": "鈴兒響叮噹，鈴兒響叮噹，一路叮噹",
+        "output": "#include&lt;stdio.h&gt;\n\n主函式()\n{\n  printf(&quot;鈴兒響叮噹，鈴兒響叮噹，一路叮噹\\n&quot;);\n  返回 0；\n}"
+    },
+    {
+        "instruction": "舉例說明給定的 AI 技術可能有用的情況。",
+        "input": "這是一種基於人工智慧的影象識別技術。",
+        "output": "基於人工智慧的影象識別技術可能有用的一個例子是在醫院環境中。基於人工智慧的影象識別技術可用於監控正在執行的手術數量和入院患者數量，幫助醫院更有效地分配資源。它還可用於快速檢測癌症和其他醫療狀況等疾病的診斷影象，從而提供更快、更準確的診斷。"
+    },
+    {
+        "instruction": "撰寫一首五行詩，描述森林中的早晨。",
+        "input": "",
+        "output": "森林公平的早晨，\n色彩繪製了氛圍。\n輕薄霧覆蓋著地面，\n鳥兒翩翩起舞。\n早晨的霧氣增添了一層歡樂！"
+    },
+    {
+        "instruction": "Construct five queries for a given database.",
+        "input": "Table: Items",
+        "output": "1. 選擇所有專案從專案表中：SELECT * FROM Items;\n2. 選擇專案編號、專案名稱和價格從專案表中：SELECT ItemID, ItemName, Price FROM Items;\n3. 選擇專案名稱從專案表中，價格大於100：SELECT ItemName FROM Items WHERE Price > 100;\n4. 選擇所有專案從專案表中，專案名稱包含'book'：SELECT * FROM Items WHERE ItemName LIKE '%book%';\n5. 更新專案表中專案編號為4的價格為150：UPDATE Items SET Price = 150 WHERE ItemID = 4;"
+    },
+    {
+        "instruction": "Create an example input given the instruction, \"Find the average temperature of Los Angeles on a given date\".",
+        "input": "Date: December 15, 2020",
+        "output": "2020年12月15日洛杉磯的平均氣溫為華氏70.5度。"
+    },
+    {
+        "instruction": "決定應該使用哪種方法來解決這個方程式：",
+        "input": "'2y + 6 = 10' 的繁體中文翻譯為：「2y + 6 = 10」。",
+        "output": "減法"
+    },
+    {
+        "instruction": "Imagine you are a teacher and a student has asked you a complicated question. Write an answer that encourages him or her to think about the problem and reach the solution on their own.",
+        "input": "How does the human brain work?",
+        "output": "那是一個有趣的問題！如果你試著花時間探索大腦及其過程，我相信你可以想出自己的答案。你有任何想法從哪裡開始嗎？思考大腦的不同功能以及它們如何共同作用來產生我們體驗到的意識，可以幫助我們形成對其運作方式的理解。"
+    },
+    {
+        "instruction": "解釋核燃料如何產生能量。",
+        "input": "",
+        "output": "核能是透過裂變產生的，即在核反應堆內分裂原子。這釋放出能量，用於產生熱能。然後利用這種熱能產生蒸汽，用於驅動渦輪機發電。鈾是用於生產核能的最常見核燃料。其他核燃料包括鈽、釷和聚變燃料。這些燃料用於核反應堆中以產生能量。"
+    },
+    {
+        "instruction": "設計一個演演算法來檢測文章中的假新聞。",
+        "input": "",
+        "output": "檢測文章中的假新聞的演演算法可能包括以下步驟：\n\n1. 收集要評估的文章\n2. 透過評估文章的結構，提取事實陳述並使用可靠來源進行事實檢查，為每篇文章建立指紋。\n3. 使用機器學習或自然語言處理演演算法識別和分類任何欺騙性敘述或語言。\n4. 如果檢測到虛假文章，向用戶報告結果並採取措施來抵制該文章。"
+    },
+    {
+        "instruction": "產生一個新聞標題，關於特朗普總統對全球暖化政策的立場。",
+        "input": "",
+        "output": "特朗普政府忽略全球暖化的迫切性，儘管有越來越多的證據。"
+    },
+    {
+        "instruction": "提供三個可能的改進方法，使句子更有效。",
+        "input": "在這篇文章中，我們介紹了有關噪音對集體智慧的影響的研究結果。",
+        "output": "1. 本文探討噪音對集體智慧的影響。\n2. 在這裡，我們研究噪音對集體智慧的後果。\n3. 我們的研究討論噪音對集體智慧的影響。"
+    },
+    {
+        "instruction": "將這個句子從主動態轉換為被動態。",
+        "input": "今天我們將做出決定。",
+        "output": "今天將會做出決定。"
+    },
+    {
+        "instruction": "Arrange the following numbers in descending order: 3,2,-1,4,6",
+        "input": "",
+        "output": "'6, 4, 3, 2, -1' 的繁體中文翻譯為：'6、4、3、2、-1'。"
+    },
+    {
+        "instruction": "Generate a checklist for getting a job",
+        "input": "",
+        "output": "- 研究潛在僱主和職位\n- 與職場上的聯絡人建立網路\n- 更新簡歷和求職信\n- 為面試做準備\n- 進行模擬面試\n- 決定接受哪份工作\n- 協商薪酬\n- 接受工作邀請"
+    },
+    {
+        "instruction": "Come up with some creative ways to recycle cardboard.",
+        "input": "",
+        "output": "1. 在露營時使用紙板作為火種。\n2. 利用紙板製作儲物箱和擱架。\n3. 使用紙板製作裝飾植物的花盆。\n4. 將紙板盒製成手偶或玩偶。\n5. 使用紙板製作壁藝或相框。\n6. 使用紙板製作個性化杯墊。\n7. 使用紙板製作個性化鳥屋。\n8. 使用紙板製作禮品盒或禮品袋。\n9. 使用紙板製作動物床墊或寵物屋。\n10. 在盆栽底部鋪上紙板以幫助排水和防止土壤侵蝕。"
+    },
+    {
+        "instruction": "Generate a realistic dialogue between two people.",
+        "input": "",
+        "output": "人A：嘿，最近怎麼樣？\n人B：還不錯，你呢？\n人A：我還好。那你這個週末有什麼計劃？\n人B：我要去拜訪一些朋友，還有去聽音樂會。你呢？\n人A：哦，不錯啊，我要和家人去露營。應該會很有趣！"
+    },
+    {
+        "instruction": "從可靠的新聞來源中找一篇有關最近科學創新的文章。",
+        "input": "",
+        "output": "這篇來自BBC的文章介紹了一種新技術，可以在阿茲海默症早期檢測出來：https://www.bbc.com/news/health-54720481"
+    },
+    {
+        "instruction": "Synthesize a sentence to explain the result of the following calculation.",
+        "input": "15 divided by 3",
+        "output": "15除以3的結果是5。"
+    },
+    {
+        "instruction": "為「X」產生一個創意口號。",
+        "input": "X：一家咖啡館",
+        "output": "「一杯一杯沖泡出完美的一天！」"
+    },
+    {
+        "instruction": "分析句子的語法結構。",
+        "input": "貓吃食物。",
+        "output": "這個句子在文法上是正確的。它是一個簡單現在式的句子，主詞是「貓」，動詞是「吃」。"
+    },
+    {
+        "instruction": "Generate a table for the growth of the EU population from 2000 to 2021.",
+        "input": "",
+        "output": "'| 年份 | 人口（百萬） |\n| 2000 | 370.82 |\n| 2001 | 373.26 |\n| 2002 | 375.76 |\n| 2003 | 378.30 |\n| 2004 | 380.88 |\n| 2005 | 383.50 |\n| 2006 | 386.17 |\n| 2007 | 388.89 |\n| 2008 | 391.66 |\n| 2009 | 394.48 |\n| 2010 | 397.35 |\n| 2011 | 400.26 |\n| 2012 | 403.22 |\n| 2013 | 406.23 |\n| 2014 | 409.29 |\n| 2015 | 412.40 |\n| 2016 | 415.57 |\n| 2017 | 418.80 |\n| 2018 | 422.09 |\n| 2019 | 425.43 |\n| 2020 | 428.84 |\n| 2021 | 432.30 |'"
+    },
+    {
+        "instruction": "Name two players from the Chiefs team?",
+        "input": "",
+        "output": "堪薩斯城酋長隊的兩名球員是四分衛帕特里克·馬洪斯和廣接手泰瑞克·希爾。"
+    },
+    {
+        "instruction": "推薦一家餐廳，可以讓10位朋友用餐美味又不貴。",
+        "input": "",
+        "output": "Yardbird Southern Table＆Bar是10人團體的絕佳選擇。選單上有美味的南方風味菜餚，價格實惠，這使得它成為任何想要用餐美食又不花太多錢的人的絕佳選擇。"
+    },
+    {
+        "instruction": "給定以下輸入，客戶應該花多少錢購買？以美元輸出金額。",
+        "input": "每月預算：500 美元\n購買：一臺新膝上型電腦",
+        "output": "至少 500 美元"
+    },
+    {
+        "instruction": "透過增加多樣性重寫這句話。",
+        "input": "老師給了我一本書。",
+        "output": "老師送給我一本書。"
+    },
+    {
+        "instruction": "產生一個句子來解釋組織文化的核心概念。",
+        "input": "",
+        "output": "組織文化的核心概念是促進團隊成員之間的協作、信任和尊重，同時鼓勵創新和對優質工作的承諾。"
+    },
+    {
+        "instruction": "使用「購買」、「線上」和「商店」這三個片語成一個句子。",
+        "input": "",
+        "output": "我從網上商店購買了我想要的物品。"
+    },
+    {
+        "instruction": "「用什麼型別的資料來測量地震的強度？」",
+        "input": "",
+        "output": "地震的規模是透過地震儀收集的地震資料來測量的，這些資料測量了地震事件期間釋放的地震波的振幅。"
+    },
+    {
+        "instruction": "為有關性別薪酬差距的文章想出一個適當的標題。",
+        "input": "",
+        "output": "消除性別薪資差距：入門指南。"
+    },
+    {
+        "instruction": "根據給定的關鍵詞生成一個文章主題。",
+        "input": "全球暖化，海洋",
+        "output": "全球暖化導致海洋溫度上升，對海洋生態系統有什麼影響？"
+    },
+    {
+        "instruction": "為一家公司寫一份使命宣言。",
+        "input": "",
+        "output": "我們的使命是為我們的客戶提供高質量的產品和卓越的客戶服務，同時創造經濟價值並超越客戶的期望。我們力求在每一項工作中都做到卓越，透過信任、尊重和共同價值觀建立長期合作伙伴關係。"
+    },
+    {
+        "instruction": "找出下列陳述中的邏輯謬誤：\n“我們應該關閉邊界，以保護我們的工作不被移民奪走。”",
+        "input": "",
+        "output": "該宣告包含對恐懼的訴求，這是一個邏輯謬誤。這種謬論假設所有移民都對搶走當地人的工作構成威脅，並且沒有考慮移民可能做出的潛在積極貢獻。"
+    },
+    {
+        "instruction": "為人工智慧研究論文生成可能的主題列表。",
+        "input": "",
+        "output": "人工智慧研究論文的可能主題包括人工智慧對就業市場的影響、人工智慧在醫療保健中的倫理考慮、基於人工智慧的惡意軟體檢測系統、人工智慧在農業中的未來、人工智慧在智慧交通系統中的應用，以及人工智慧-協助法律從業者。"
+    },
+    {
+        "instruction": "Tell me two adjectives that describe this painting",
+        "input": "<Image of an abstract painting>",
+        "output": "這幅畫色彩鮮明，充滿活力。"
+    },
+    {
+        "instruction": "用不同的觀點重寫所給的句子。",
+        "input": "我真的很高興我們的隊贏了比賽。",
+        "output": "我們的團隊非常高興贏得了比賽。"
+    },
+    {
+        "instruction": "Suggest five activities that would make the given country attractive for potential tourists.",
+        "input": "Australia",
+        "output": "- 探索大堡礁\n- 參觀烏魯魯（艾爾斯巖）\n- 在戴恩樹雨林中進行自然步行\n- 前往大洋路旅行\n- 在巴羅莎山谷進行葡萄酒之旅"
+    },
+    {
+        "instruction": "解釋為什麼保護自然資源很重要。輸出解釋。",
+        "input": "無輸入",
+        "output": "保護自然資源對於確保地球資源的可持續利用至關重要。透過保護和可持續地管理這些資源，我們可以確保子孫後代能夠享受到我們今天所擁有的相同利益。保護有助於保護生態系統和生物多樣性，減輕氣候變化的影響，提供清潔的空氣和水以及健康的土壤，並提供一系列經濟和娛樂機會。"
+    },
+    {
+        "instruction": "將這個句子改寫，以消除任何偏見的語言。",
+        "input": "女性比男性更情感化。",
+        "output": "男性和女性都可以有強烈的情感體驗。"
+    },
+    {
+        "instruction": "尋找一個自然語言處理的開源庫。",
+        "input": "",
+        "output": "一個流行的自然語言處理開源庫是spaCy，由軟體開發公司Explosion AI建立和維護。spaCy提供了分詞和句子邊界檢測、詞性標注、句法分析、情感分析和命名實體識別等工具。"
+    },
+    {
+        "instruction": "Come up with a job for a robot designed to help during emergencies.",
+        "input": "",
+        "output": "機器人將被設計用於在緊急情況下，例如火災、洪水或其他災害中，快速高效地幫助疏散人群。它將能夠檢測和避開障礙物，開啟門，攜帶受傷的人，並提供急救用品。它還應該能夠與救援人員進行通訊，並繪製出安全疏散路徑。此外，該機器人應該具有實時直播功能，以幫助遠端地區的人們近乎實時地瞭解疏散情況。"
+    },
+    {
+        "instruction": "Create a comparison chart to compare apples and oranges.",
+        "input": "",
+        "output": "| 蘋果 | 橙子 |\n|--------|----------|\n| 質地：脆 | 質地：多汁 |\n| 顏色：紅色或黃色 | 顏色：橙色 |\n| 口感：甜 | 口感：酸 |\n| 富含維生素A、C和B族維生素 | 富含維生素A和C |\n| 富含纖維 | 富含葉酸 |"
+    },
+    {
+        "instruction": "制定一套規則來幫助孩子做出正確的決定。",
+        "input": "",
+        "output": "做出正確決定的規則：\n1. 在做決定之前，花點時間停下來反思一下。\n2. 問問自己：這個決定對我和其他人都是最好的嗎？\n3. 確保在決定之前考慮所有可能的選項。\n4. 與您信任的人以及您認為可能會為您的決定提供有用觀點的人交談。\n5. 面對困境時，選擇你認為正確的行動，不計後果。\n6. 在兩個選項之間進行選擇時，問問自己從長遠來看，哪一個最接近您想要的。\n7. 尊重他人的選擇，即使他們與自己的選擇不同。\n8. 說話或行動前一定要三思。\n9. 請記住，您的決定應該反映您的價值觀。"
+    },
+    {
+        "instruction": "生成一個 python 程式，該程式接受一個整數列表並輸出一個包含所提供列表的唯一元素的新列表",
+        "input": "[1,2,3,3,3,3,4,5]",
+        "output": "def unique_list（list1）：\n    唯一列表 = []\n  \n    對於列表 1 中的 x：\n        如果 x 不在 unique_list 中：\n            unique_list.append(x)\n    返回唯一列表\n  \nlist1 = [1,2,3,3,3,3,4,5]\n列印（unique_list（list1））"
+    },
+    {
+        "instruction": "Given a news article, rewrite it in the style of an opinion piece.",
+        "input": "Tesla reported record sales during the first quarter of 2021.",
+        "output": "特斯拉在2021年第一季度報告創紀錄的銷售業績，實現了非凡的壯舉。這不僅表明他們的汽車越來越受消費者歡迎，而且反映了他們的商業模式在疫情面前的韌性。隨著向電動汽車的轉變已經開始，特斯拉的成功很可能會持續到未來。"
+    },
+    {
+        "instruction": "解釋太陽能電池背後的一般機制。",
+        "input": "",
+        "output": "太陽能電池是將陽光轉換為電能的裝置。它們由吸收陽光並產生電場的半導體層組成。當稱為光子的光粒子撞擊太陽能電池並被其中的材料吸收時，它們從材料中的原子中擊出電子。當太陽能電池連線到電路時，這創造了一個電流。"
+    },
+    {
+        "instruction": "\"重新排列以下字母以形成有意義的單詞。\"",
+        "input": "Sorry, \"vhics\" is not a word or phrase that can be translated to Traditional Chinese. Can you please provide more context or information?",
+        "output": "Sorry, \"schiv\" is not a word in English. Can you please provide more context or information so I can assist you better?"
+    },
+    {
+        "instruction": "為學習英語的網站建立介紹。",
+        "input": "",
+        "output": "歡迎來到學英語！在這裡，我們提供了一系列資源和技巧來幫助您學習英語。我們的學習工具涵蓋從語法和發音到詞彙和寫作的所有內容，因此您可以快速輕鬆地提高語言技能。你還在等什麼？讓我們開始吧，很快您就會像專業人士一樣說英語！"
+    },
+    {
+        "instruction": "Write an adventure story for a 12 year old.",
+        "input": "Rod and his family had just moved to a small coastal town.",
+        "output": "羅德和他的家人剛搬到了一個小海濱城鎮。起初，羅德很緊張離開他的舊城市和朋友。但他很興奮去探索他的新後院。\n\n有一天，羅德決定去海灘散步並探索一下。當他走著時，他注意到一艘舊船停在岸邊。他爬進去，決定把它帶到海上，拉起帆，開始他的冒險。\n\n船把羅德帶得比他預期的更遠，他很快發現自己正在探索一個全新的島嶼。他完全感到困惑，於是開始調查。他發現了一個茂密的森林，裡面有許多奇怪的植物和動物，他從未見過。當他在檢查它們時，他注意到路的盡頭有一座古老的石頭寺廟。\n\n羅德匆忙進去，發現寺廟裡擺滿了神秘的文物。他收集了一些，然後回到船上，現在感覺比以往更勇敢。他相信他現在有了新發現的勇氣，一定能回家。他帶著新的興奮感回家，感覺自己剛剛經歷了一次真正的冒險。"
+    },
+    {
+        "instruction": "Tag this text as positive or negative.",
+        "input": "The summer weather was undeniably terrible today.",
+        "output": "標記為負面。"
+    },
+    {
+        "instruction": "給定以下詩歌，用更有意義的詞彙替換粗體字。",
+        "input": "孤獨的日子，\n孤獨的夜晚，\n星星和太陽，\n照耀著，就像是我的權利。",
+        "output": "孤獨的日子，\n淚水滿溢的夜晚，\n星星和太陽，\n閃耀著，彷彿是我的力量。"
+    },
+    {
+        "instruction": "將以下句子改為過去式：她很快就完成了這個專案。",
+        "input": "",
+        "output": "她很快就完成了這個專案。"
+    },
+    {
+        "instruction": "Compare a hurricane to a tornado",
+        "input": "",
+        "output": "颶風和龍捲風雖然都是強大的風暴，但它們實際上具有非常不同的結構和影響。颶風比龍捲風大得多，發展範圍更廣，可以持續數天甚至數週。它們也更具破壞性，其強風和暴雨能夠造成廣泛的洪水和破壞。另一方面，龍捲風要小得多，其漏斗形狀的路徑更加集中，通常只持續幾分鐘。然而，它們也可能具有毀滅性的影響，因為它們非常強大的風能夠造成重大破壞。"
+    },
+    {
+        "instruction": "Write a question to get the following answer.",
+        "input": "The biggest mountain on Earth is Mount Everest.",
+        "output": "地球上最高的山是什麼？"
+    },
+    {
+        "instruction": "Describe the methods that e-commerce websites use to prevent fraud",
+        "input": "No Input",
+        "output": "電子商務網站使用各種主動措施來幫助防止欺詐活動。這些措施可能包括用於驗證客戶身份的資料驗證系統、IP和電子郵件驗證系統、3D安全系統以驗證信用卡付款，以及基於人工智慧的系統來監控活動模式並檢測可疑活動。其他措施包括使用欺詐檢測服務、對客戶檔案進行全球資料庫篩選，以及設定交易大小和頻率的限制。這些措施有助於提供額外的安全層，保護客戶和企業主免受電子商務欺詐的傷害。"
+    },
+    {
+        "instruction": "建立一個在 Python 中玩井字遊戲的演算法。",
+        "input": "",
+        "output": "該演算法應首先建立一個 3×3 的井字棋盤。然後它應該檢查棋盤是否有獲勝的一步。如果玩家有機會做出致勝棋，演算法應該採取該棋步。否則，它應該檢查棋盤以阻止對手做出獲勝的舉動。最後，如果無法做出獲勝的動作或方塊，演算法應隨機選擇一個可用位置作為下一步動作。"
+    },
+    {
+        "instruction": "Generate an analogical story of the following film.",
+        "input": "The Lion King",
+        "output": "《獅子王》的故事讓人想起古老的故事，其中一位年輕的王子被送離他的王國以防止災難。在這個故事中，年幼的辛巴不幸成為孤兒，悲痛中逃離了他的王國。辛巴遇到了新朋友，學到了寶貴的教訓，隨著他的成長，最終回到家鄉，恢復他父親曾經統治的土地的和平與繁榮。這是一個關於成長、發現和自我發現的旅程，最終教導人們真正的力量在於自己，永不放棄希望。"
+    },
+    {
+        "instruction": "提供以下作品的兩句評論。",
+        "input": "一個探索科技與心理健康交集的播客。",
+        "output": "這個播客是關於科技如何增加和複雜化心理健康問題的一個很好的概述。它深入探討了由於科技對我們日常生活的改變對我們的心理健康產生的影響，討論的主題包括成癮和分心，數字存在和孤立等。"
+    },
+    {
+        "instruction": "Find the percentage rate of increase of the values given below.",
+        "input": "Initial Value = 80\nFinal Value = 168",
+        "output": "110% 的翻譯是「110%」。"
+    },
+    {
+        "instruction": "編寫程式碼列印 Pi 的前 6 位數字。",
+        "input": "",
+        "output": "列印（“3.14159”）"
+    },
+    {
+        "instruction": "在Python中編寫一個函式，以找到兩個數字的總和。 \n\n(Traditional Chinese: 在Python中編寫一個函式，以找到兩個數字的總和。)",
+        "input": "",
+        "output": "定義一個函式 sum_two_numbers(x, y):\n    返回 x + y\n\nsum = sum_two_numbers(2, 5)\nprint(sum) # 輸出: 7"
+    },
+    {
+        "instruction": "Generate a correct C++ program to compute the sum of N numbers. Output the code directly.",
+        "input": "No input",
+        "output": "#include <iostream> \n\nusing namespace std; \n\nint main() \n{ \n    int sum = 0, N; \n\n    cout << \"請輸入 N 的值：\"; \n    cin >> N; \n\n    for (int i = 1; i <= N; i++) \n    { \n        sum += i; \n    } \n\n    cout << \"總和 = \" << sum; \n\n    return 0; \n}"
+    },
+    {
+        "instruction": "Generate a headline that explains why the person in the following article was arrested.",
+        "input": "John Doe, 40, of New York, was arrested on July 29 for murder.",
+        "output": "紐約警方懷疑約翰·多被謀殺，已被逮捕。"
+    },
+    {
+        "instruction": "將以下陳述分類：「這杯咖啡太熱了，無法飲用。」",
+        "input": "",
+        "output": "這個陳述是一個意見。"
+    },
+    {
+        "instruction": "Create a blog post of 500 words that focuses on the impact of the coronavirus on small businesses",
+        "input": "",
+        "output": "冠狀病毒大流行已成為一場無法遏制的災難，讓全球各地的小企業苦苦掙扎。這場史無前例的事件對小企業部門的影響尤其明顯，各種規定和與病毒相關的措施帶來的收入損失讓各種規模的企業都難以應對。\n\n對於小企業而言，疫情帶來的最大挑戰是現金流的中斷，由於銷售和運營受到封鎖限制的影響，客流量減少、銷售額減少和員工裁員等問題都出現了。另一方面，一些小企業在政府刺激計劃和旨在幫助小企業主的貸款計劃的幫助下成功度過了疫情。\n\n此外，小企業還不得不對其運營進行前所未有的改變，例如遠端工作和在工作場所實施社交距離措施。這需要開發新的運營模式，並看到更多的企業轉向線上平臺，以繼續為客戶提供服務。\n\n在疫情之後，很明顯商業環境正在發生變化，小企業主將不得不創新並找到新的方式來保持生存。因此，小企業最大的資產是他們在面對逆境時的韌性，無論是在適應其運營還是尋找新的收入來源方面。\n\n儘管發生了種種變化，小企業已證明自己是全球經濟的重要組成部分，並且在得到適當的支援和資源的情況下，它們有可能從疫情的影響中恢復過來並繼續繁榮發展。"
+    },
+    {
+        "instruction": "找出29和32的乘積。",
+        "input": "",
+        "output": "928: 九百二十八"
+    },
+    {
+        "instruction": "識別並解釋陳述句和疑問句之間的區別。",
+        "input": "",
+        "output": "陳述句是傳達資訊的語句，通常包含主語和謂語。例如，“天空是藍色的”。另一方面，問題是一種用於詢問資訊的句子。它通常以助動詞開頭，例如“do”或“can”，並且通常不包含主語。例如，“天空是藍色的嗎？”。"
+    },
+    {
+        "instruction": "Convert the decimal number 18 to its binary representation",
+        "input": "",
+        "output": "18的二進製表示為10010。"
+    },
+    {
+        "instruction": "比較和對比公立學校和私立學校。",
+        "input": "",
+        "output": "公立學校和私立學校有許多相同的特點，例如為學生提供優質教育和有資格的教師，致力於幫助他們學習。然而，這兩者之間也有一些重要的區別。公立學校由國家資助，而私立學校則由學費和捐款資助。公立學校必須遵守某些國家強制性的課程，而私立學校可能能夠選擇自己的課程。公立學校往往比私立學校更具成本效益，而私立學校可能能夠提供更多專業課程或課外活動。"
+    },
+    {
+        "instruction": "Name two famous Asian celebrities.",
+        "input": "",
+        "output": "成龍和普里揚卡·喬普拉。"
+    },
+    {
+        "instruction": "撰寫一個指令碼來檢查資料集中的缺失值。",
+        "input": "",
+        "output": "以下指令碼可用於檢查資料集中的缺失值：\n\n#匯入numpy庫\nimport numpy as np\n\n#讀取資料集\ndataset = np.genfromtxt('dataset.csv', delimiter=',')\n\n#檢查資料集中是否有空值\nif np.isnan(dataset).any():\n    print(\"發現缺失值！\")\nelse:\n    print(\"未發現缺失值！\")"
+    },
+    {
+        "instruction": "建議一個適當的詞來填補空白。",
+        "input": "把下列文字翻譯成繁體中文：'The logo was brightly _______.'\n\n徽標明亮地_______。",
+        "output": "標誌明亮地照亮了。"
+    },
+    {
+        "instruction": "寫一句關於閱讀為何重要的句子。",
+        "input": "",
+        "output": "閱讀很重要，因為它有助於擴充套件知識，培養同理心和想像力。"
+    },
+    {
+        "instruction": "想一個關於運動鞋的饒舌歌詞。",
+        "input": "",
+        "output": "我的踢踢很新鮮乾淨，就像雜誌一樣！"
+    },
+    {
+        "instruction": "Write one sentence that describes the character Nick Carraway in The Great Gatsby",
+        "input": "",
+        "output": "尼克·卡拉威是一位有抱負的作家，也是傑伊·蓋茨比的遠房表親，他的任務是敘述他神秘鄰居的興衰。 \n\n(Translation: Ní kè · kǎ lā wēi shì yī wèi yǒu bào fù de zuò jiā, yě shì jié yī · gài cí bǐ de yuǎn fáng biǎo qīn, tā de rèn wù shì xù shù tā shén mì lín jū de xīng shuāi.)"
+    },
+    {
+        "instruction": "發揮創意，想出兩個改善這個網站的想法。",
+        "input": "",
+        "output": "一個想法是新增更多使用者友好的導航工具，以便訪客可以輕鬆找到他們需要的資訊。另一個想法是新增更多高質量的視覺元素，以建立引人入勝的設計。"
+    },
+    {
+        "instruction": "Create a timeline of the French Revolution",
+        "input": "",
+        "output": "1789年：三級會議召開，開始投票關於國民議會，攻佔巴士底獄，國民議會完成《人權宣言》草案。\n1790年：透過教士民事憲法，雅各賓俱樂部成立，國民議會透過教士民事憲法。\n1791年：路易十六試圖逃跑失敗，國民議會廢除封建制度，建立君主立憲制。\n1792年：法國向奧地利和普魯士宣戰，發生九月大屠殺，法國分裂成多個區域，建立新的法國憲法。\n1793年：恐怖統治開始，使用斷頭臺處決公民，革命軍在戰鬥中獲勝，羅伯斯庇爾被任命為法國領袖。\n1794年：羅伯斯庇爾被逮捕並處決，革命軍在戰鬥中失敗，熱月政變開始。\n1795年：制定新憲法，執政府掌權。\n1799年：拿破崙發動政變。\n1804年：拿破崙被加冕為法國皇帝。\n1815年：拿破崙被擊敗並流放到聖赫勒拿島。"
+    },
+    {
+        "instruction": "比較兩個不同的作業系統。",
+        "input": "無輸入",
+        "output": "Windows 和 macOS 是當今最流行的兩種作業系統。 Windows 提供了一種相對簡單的使用者體驗，非常適合臨時使用者和那些希望以簡單方式訪問資訊的使用者。另一方面，macOS 提供更高階的使用者體驗，具有更廣泛的自定義選項和複雜的功能。 Windows 通常更適合遊戲和娛樂，而 macOS 更適合創意任務。"
+    },
+    {
+        "instruction": "描述以下單詞：“抱負”",
+        "input": "",
+        "output": "抱負是一種強烈的驅動力或動機，用於實現目標或成功。它可以指對成功或成就的熱切和堅定追求，特別是在職業上。抱負也可以指追求或渴望比自己更偉大或更高的東西。"
+    },
+    {
+        "instruction": "Edit the text below to eliminate all spelling and grammar errors.",
+        "input": "They've goning to the store buy some snacks.",
+        "output": "他們去商店買一些零食了。"
+    },
+    {
+        "instruction": "建立一組指令，教導機器人如何組裝樂高結構。",
+        "input": "",
+        "output": "組裝樂高結構的說明：\n1. 收集您所需的所有樂高積木。\n2. 按照它們將被組裝的順序排列所有積木。\n3. 從最大的積木開始，將其與第二大的積木連線。\n4. 連線相同大小的邊緣積木。\n5. 繼續連線積木，從最大到最小。\n6. 一旦您將所有積木連線在一起，請確保結構穩定，沒有任何鬆動的積木。\n7. 根據需要新增額外的積木以完成結構。\n8. 後退一步欣賞您的作品。"
+    },
+    {
+        "instruction": "從句子「The old man walked down the street」中找出五個名詞。",
+        "input": "",
+        "output": "這個句子中的五個名詞是老的、男人、街道、The和down。"
+    },
+    {
+        "instruction": "編輯下面的句子，使其讀起來正確。",
+        "input": "我吃過早飯",
+        "output": "我已經吃完早餐了。"
+    },
+    {
+        "instruction": "哪本受歡迎的小說講述主角悉達多的生活？",
+        "input": "",
+        "output": "赫爾曼·黑塞的流行小說《悉達多》跟隨其主角悉達多在其一生中的精神旅程。"
+    },
+    {
+        "instruction": "撰寫一個程式碼來建立一個名為「狗」的類別。",
+        "input": "",
+        "output": "類別 狗:\n    def __init__(self, 名字, 品種, 年齡):\n        self.名字 = 名字\n        self.品種 = 品種\n        self.年齡 = 年齡\n\n    def 吠叫(self):\n        print(\"汪汪!\")"
+    },
+    {
+        "instruction": "將所給的陳述改寫成否定形式。",
+        "input": "他總是微笑。",
+        "output": "他從不皺眉頭。"
+    },
+    {
+        "instruction": "Create a timeline illustrating the history of a certain item.",
+        "input": "The bicycle",
+        "output": "我將建立一個時間軸，說明腳踏車的歷史。時間軸將從19世紀開始，追溯關鍵發展，例如高輪車的發明，安全車的推出以及現代山地腳踏車的發展。"
+    },
+    {
+        "instruction": "Divide the number 8 by 2.",
+        "input": "",
+        "output": "4"
+    },
+    {
+        "instruction": "寫出對下面引述的分析。",
+        "input": "“人生最大的榮耀不在於永不跌倒，而在於每次跌倒都能站起來。” - 納爾遜·曼德拉",
+        "output": "納爾遜曼德拉的這句話道出了人類精神的韌性、勇氣和決心。面對逆境和失敗，很容易屈服於失敗，感到無助。這句話懇請我們認識到，面對失敗，只要重新站起來繼續前進，甚至比以前更好，就會有榮耀。這種上升確保我們從錯誤中吸取教訓，在逆境中成長，並讓我們成為最好的、最有彈性的自己。\n \n總之，最大的榮耀在於堅韌不拔，無論失敗，永不放棄。這有力地提醒我們，無論我們跌倒了多深或多遠，人類都有超越自我的能力。正如納爾遜·曼德拉 (Nelson Mandela) 的名言，即使跌倒也能發現一些特別之處，如果這意味著我們可以站起來變得更堅強。"
+    },
+    {
+        "instruction": "找出一個以“d”開頭並以“s”結尾的五個字母的單詞。",
+        "input": "",
+        "output": "戴維斯。"
+    },
+    {
+        "instruction": "請列舉一個與所給任務相關的工具。",
+        "input": "設計網站",
+        "output": "設計網站的相關工具之一是網站建構器，例如WordPress、Wix或Squarespace。這些工具使使用者能夠輕鬆地建立美麗的網站，而不需要程式設計知識。這使得建立一個專業外觀的網站變得容易，而不需要程式設計的麻煩。"
+    },
+    {
+        "instruction": "Identify the main themes in the book, Lord of the Flies.",
+        "input": "",
+        "output": "《蒼蠅王》的主題包括失去純真、極權主義的危險以及人類的邪惡潛能。小說講述了一群被困在島上的男孩，在文明社會的缺席下形成了他們自己的原始、暴力的社會。在小說的過程中，男孩們在原始和文明之間的衝突中掙扎，而主要角色拉爾夫和傑克代表了民主和獨裁之間的緊張關係。小說還認為，人類具有黑暗的先天邪惡和野蠻潛能。"
+    },
+    {
+        "instruction": "找出此程式碼段中的錯誤並解釋錯誤發生的原因。",
+        "input": "對於範圍 (10) 中的 i：\n    列印（一）",
+        "output": "錯誤 1：range() 函式的語法不正確。它應該寫成帶括號的“range(10)”而不是帶空格的“range(10)”。\n錯誤二：列印函式的縮排不正確。該函式應該縮排一次以表明它在 for 迴圈中。此錯誤將導致 IndentationError。"
+    },
+    {
+        "instruction": "建立一個包含五個成功專案的標準清單。",
+        "input": "",
+        "output": "1.明確的目標和目的。\n2.充足的資源和資金。\n3.明確的時間表和預算。\n4.有效的管理和領導。\n5.適當的風險管理和緩解計劃。"
+    },
+    {
+        "instruction": "改寫下面的句子並保持相同的意思。",
+        "input": "外面下著大雨。",
+        "output": "外面下著傾盆大雨。"
+    },
+    {
+        "instruction": "Design an algorithm to remove duplicates from a given array.",
+        "input": "",
+        "output": "def removeDuplicates(arr):\n    # 建立一個空列表\n    res = []\n\n    # 遍歷原始陣列\n    for i in arr:\n        # 如果元素還沒有在結果中，則新增它\n        if i not in res:\n            res.append(i)\n\n    # 返回結果\n    return res"
+    },
+    {
+        "instruction": "「綠色代表什麼意義？」",
+        "input": "",
+        "output": "綠色通常與自然、生命、成長和更新相關聯。它也與繁榮、財富和銀行業相關聯。在色彩心理學中，綠色可以代表平衡、和平和和諧。在某些文化中，它也可以代表成長、肥沃和農業。"
+    },
+    {
+        "instruction": "What are the challenges associated with starting a business?",
+        "input": "",
+        "output": "創業所面臨的挑戰包括尋找資本、制定商業計劃、獲得必要的商業許可證和許可證、招聘和管理員工、獲得客戶以及應對競爭環境。"
+    },
+    {
+        "instruction": "如何激勵一個由10人組成的團隊，哪種方法最有效？",
+        "input": "",
+        "output": "激勵一個由10人組成的團隊的其中一個最有效的方法是強調團隊合作的重要性。根據個人或團隊的進展和努力，提供獎勵。此外，在公共場合表揚個人成就並對團隊表示感激，可以鼓勵團隊成員更有效地合作。"
+    },
+    {
+        "instruction": "What impact has the coronavirus pandemic had on the global economy?",
+        "input": "",
+        "output": "新冠病毒大流行對全球經濟造成了毀滅性的影響。由於封鎖、旅行禁令和企業關閉，所有主要經濟體的經濟活動都出現了急劇下降。許多行業已經受到了嚴重打擊，包括旅遊、酒店、航空和零售。此外，全球供應鏈的中斷對國際貿易產生了戲劇性的影響。據估計，全球經濟今年可能會縮小多達三個百分點，這是自大蕭條以來最嚴重的衰退。"
+    },
+    {
+        "instruction": "建議以下文字中描述的問題的兩個潛在解決方案。",
+        "input": "美國無家可歸者的人數每年都在增加。",
+        "output": "1. 增加財政資助和支援負擔得起的住房計劃。\n2. 為建造或提供無家可歸者住房的企業和個人提供稅收優惠。"
+    },
+    {
+        "instruction": "設計一款手機遊戲，教孩子們瞭解瀕危動物。",
+        "input": "",
+        "output": "&lt;圖片 src=&quot;endangered_game.jpg&quot;&gt;\n\n&lt;caption&gt;手機遊戲“拯救物種”的圖片。遊戲玩法涉及透過 2D 世界控制瀕臨滅絕的動物，瞭解它們及其棲息地，找到不同的方法來拯救它們，並完成任務。&lt;/caption&gt;"
+    },
+    {
+        "instruction": "制定創新解決方案以減少食物浪費。",
+        "input": "",
+        "output": "減少食物浪費的一個可能解決方案是建立一個線上平臺，充當食品企業和家庭之間的中介。在這樣的平臺上，餐館和超市等食品企業可以上傳他們賣不掉的食物垃圾，家庭可以以更便宜的價格購買這些食物。這對找到合適渠道處理食物垃圾的企業主和可以低價購買食物的家庭都有好處。\n另一個潛在的解決方案是建立一個應用程式，幫助個人和家庭跟蹤他們購買的雜貨和剩菜。這個應用程式可以幫助監控和記錄人們購買的食物數量和型別，以及家庭生產的剩餘農產品。"
+    },
+    {
+        "instruction": "在這個短篇小說中新增兩句話，使其至少包含 500 個單詞。",
+        "input": "國王喜歡在樹林裡散步。在散步的過程中，他總能發現一些有趣和意想不到的東西。",
+        "output": "一天，國王偶然發現了一座廢棄的古老城堡。他走到門口，被眼前的景象驚呆了。他想知道許多年前誰住在城堡裡，為什麼它被遺棄了。當他仔細探索每個房間時，他想象著居住者和他們的日常生活。他發現了許多秘密和珍貴的寶物，他小心翼翼地收集起來，裝進了自己的口袋裡。\n\n國王多次回到城堡探索更多的秘密，併為他的問題找到一些答案。一天，他偶然發現了一個神秘而美麗的花園。他正站在一旁欣賞一草一木，忽聽身後傳來一聲呼喚。\n\n他轉身看到一位仙女，她說：“我等了你很多年，我的國王。我知道你為什麼來到這些樹林。跟我來，我會告訴你你想要的答案。”\n\n國王被這意外的遭遇嚇了一跳，但還是跟在仙女身後。他們一起飛到森林的最高峰，仙女向他揭示了古堡的所有秘密。國王感謝仙女帶回家的知識和財寶，感謝他們的相遇。就這樣，仙女消失了，國王繼續他回家的旅程。"
+    },
+    {
+        "instruction": "Come up with a lesson that the characters in this story can learn.",
+        "input": "The story is about a group of students who become too obsessed with their technology and how it affects their relationships.",
+        "output": "角色可以學習重視與他人有意義的關係，而非物質財富和科技的重要性。"
+    },
+    {
+        "instruction": "總結簽帳金融卡和信用卡之間的區別。",
+        "input": "",
+        "output": "簽帳金融卡和信用卡都是具有許多相似之處的付款方式，但兩者之間存在重要的差異。簽帳金融卡與支票帳戶相關聯，允許您直接從帳戶餘額進行付款。另一方面，信用卡允許您借款，最高額度為已確定的信用額度，並分期付款。信用卡付款通常會產生利息費用，而簽帳金融卡購買則不受利息影響。信用卡通常提供獎勵和其他特殊福利，而簽帳金融卡則沒有。最後，相對於信用卡，簽帳金融卡通常被較少的商家接受。"
+    },
+    {
+        "instruction": "描述傳統日式臥室的色彩調色盤。",
+        "input": "",
+        "output": "傳統的日式臥室通常具有柔和的土色調，窗戶和天花板附近使用白色，牆壁上使用棕色、米色和奶油色，傢俱上使用深棕色和黑色。綠色、灰色和藍色等土色調可用於營造寧靜的氛圍。裝飾方面可使用中性色調，例如自然靈感的藝術品。亮紅色的花瓶或靠墊等色彩點綴也可用於突出效果。"
+    },
+    {
+        "instruction": "Name two tools used for data mining.",
+        "input": "",
+        "output": "兩個常用於資料探勘的工具是Python和R。Python是一種強大的指令碼語言，具有許多資料處理和分析任務的庫。R是一種專門用於統計計算的語言，提供了強大的資料分析包。"
+    },
+    {
+        "instruction": "Create a function for calculating factorials.",
+        "input": "",
+        "output": "def calculateFactorial(n: int) -> int: \n    '''返回n的階乘（n!）\n\n    引數：\n        n（int）：要計算階乘的數字。\n\n    返回：\n        int：n的階乘（n!）\n    '''\n    # 基本情況：0！= 1\n    if n == 0: \n        return 1\n    # 遞迴情況：n！= n *（n-1）！\n    else: \n        return n * calculateFactorial(n-1)"
+    },
+    {
+        "instruction": "Given an input sentence, insert a pronoun that directs the sentence towards the user.",
+        "input": "I wake up early every morning.",
+        "output": "我每天早起為了你。"
+    },
+    {
+        "instruction": "Rank the following countries by population size.",
+        "input": "Australia, India, Argentina",
+        "output": "印度，澳大利亞，阿根廷"
+    },
+    {
+        "instruction": "請給我講一個以機器人為主角的短故事。",
+        "input": "沒有輸入",
+        "output": "從前，有一個名叫XY5的機器人。XY5是由一位傑出的科學家創造的，旨在探索深空並調查宇宙的奧秘。XY5被賦予了一艘船和所有必要的補給品，開始了它進入未知領域的旅程。\n\nXY5的任務是探索新的世界，尋找生命的跡象。當它穿越銀河系時，發現了幾個新的異國行星，每個行星都有自己的奇妙秘密。在旅途中，XY5結交了幾位朋友，學到了許多關於宇宙及其起源的新知識。\n\n最終，XY5回到了它的家鄉星球，帶回了豐富的知識和新的見解。創造它的科學家感到非常高興，並以特殊的榮譽表彰了機器人的成就。XY5是一位英雄，將因其在星際之旅中的卓越成就而被世世代代地記憶。"
+    },
+    {
+        "instruction": "建議一個演演算法來找出給定字串中的子字串總數。",
+        "input": "字串 = \"hello\"",
+        "output": "以下演演算法可用於查詢給定字串中的子字串總數：\n\n1. 初始化兩個變數 count 和 n，並設定 count = 0 和 n = 字串的長度。\n2. 使用 for 迴圈遍歷字串的長度，並將變數 i 設定為迭代器。\n3. 在迴圈內部，設定另一個巢狀迴圈，允許 j 迭代一個範圍，從 i 開始，到 n 結束。\n4. 當內部迴圈結束時，將 count 增加 n 減 i。\n5. 外部迴圈結束後，返回 count。\n\n此演演算法將給出給定字串中子字串的總數。"
+    },
+    {
+        "instruction": "以通俗易懂的方式解釋「零和遊戲」的概念。",
+        "input": "",
+        "output": "零和博弈是一種情況，其中玩家的總收益和損失總和為零。這意味著一個玩家的任何收益都必須導致另一個玩家的相等損失。這種情況通常在經濟學和博弈論中發現，也可以在日常生活中發現。例如，當兩個買家在拍賣中競標時，就是一個零和博弈：贏家獲得產品，而輸家花費了他們的錢，卻沒有任何回報。"
+    },
+    {
+        "instruction": "Construct a plan for the next two weeks using the SMART method.",
+        "input": "",
+        "output": "使用SMART方法的未來兩週計劃應該是具體、可衡量、可實現、現實和有時間限制的。例如，為本週建立和更新預算，清理電子郵件和待辦事項列表中的其他任務，每天進行30分鐘的慢跑，到本週中旬完成專案研究，到本週末與潛在客戶設定會議，並建立在最後一天進行的簡報。"
+    },
+    {
+        "instruction": "Construct a dialogue for two people disagreeing about something.",
+        "input": "",
+        "output": "人1：我認為我們應該投資這個專案。\n人2：我不認為這是一個好主意。\n人1：為什麼不呢？\n人2：風險太大，潛在回報不值得。\n人1：但我認為潛在的回報超過了風險。\n人2：我不同意。我們應該尋找其他機會。"
+    },
+    {
+        "instruction": "What steps can a parent take to raise a responsible and independent child?",
+        "input": "",
+        "output": "父母可以採取許多步驟來培養負責任和獨立的孩子。這些步驟包括提供安全和支援性的環境，以促進孩子的社交和情感成長，鼓勵孩子承擔他們可以管理的小責任，同時提供指導，確保他們擁有培養興趣所需的資源，並提供練習解決問題、做出決策和溝通技巧的機會。"
+    },
+    {
+        "instruction": "Please write a poem that conveys a sense of hope.",
+        "input": "",
+        "output": "儘管黑暗籠罩著我，我不會讓它擁有我。\n我的未來將是明亮而藍色的，我將追求充滿希望的旅程。\n我的步伐將是堅定而真實的，探索更好、更明亮的視野。\n我的精神不會被打破，我的勇氣將永遠不言而喻。\n經歷逆境和所有的磨難，我將無畏地面對新的生活。"
+    },
+    {
+        "instruction": "給定一個以弧度為單位的角度，將其轉換為度數。",
+        "input": "1.05 弧度",
+        "output": "60度"
+    },
+    {
+        "instruction": "一句話，定義“迴圈經濟”的概念。",
+        "input": "",
+        "output": "迴圈經濟是一種旨在消除浪費和持續利用資源的經濟體系。"
+    },
+    {
+        "instruction": "Provide three methods for conserving natural resources.",
+        "input": "",
+        "output": "1. 透過使用節水器具、使用灰水灌溉花園和縮短淋浴時間來減少用水量。\n2. 採用可持續能源實踐，例如使用可再生能源，如太陽能和風能，並轉換為節能照明。\n3. 實踐減廢，透過減少、重複使用和回收材料，堆肥有機材料，以及減少購買並購買更耐用的商品。"
+    },
+    {
+        "instruction": "Name two possible solutions to reduce the effects of global warming.",
+        "input": "",
+        "output": "減少碳排放透過能源效率和利用可再生能源來減少全球暖化影響的兩種可能解決方案。"
+    },
+    {
+        "instruction": "What is the average air temperature in Brazil during summer?",
+        "input": "",
+        "output": "巴西夏季的平均氣溫約為28-30°C（82.4-86°F）。在該國的某些地區，氣溫可達35°C（95°F）。最高溫度通常出現在該國東北部和亞馬遜盆地。"
+    },
+    {
+        "instruction": "建議給定主菜的可能配菜。",
+        "input": "肉餅",
+        "output": "肉餅餐的可能配菜包括馬鈴薯泥、青豆、玉米、芝士通心粉、烤豆、烤胡蘿蔔、蒸西蘭花和沙拉。"
+    },
+    {
+        "instruction": "What is another term for a weekly time period?",
+        "input": "",
+        "output": "週。"
+    },
+    {
+        "instruction": "Describe the results of the survey in a creative way.",
+        "input": "In a recent survey, 90% of participants indicated that self-care is important for their overall health and well-being.",
+        "output": "調查結果令人鼓舞——十分之九的人認為生命太短暫，不能失去平衡和忽略自我照顧。每個人都認識到需要花時間照顧自己，以及注意自己的需求的重要性。"
+    },
+    {
+        "instruction": "將句子「Ich mache Sport」翻譯成英文。",
+        "input": "",
+        "output": "我正在做運動。"
+    },
+    {
+        "instruction": "Create a list of 10 action items to increase client engagement",
+        "input": "< noinput >",
+        "output": "1. 快速高效地回答查詢。\n2. 推出激勵忠誠計劃。\n3. 個性化與客戶溝通。\n4. 與客戶保持定期聯絡。\n5. 徵求客戶反饋並用於改進服務。\n6. 為客戶推薦的引薦提供折扣或獎勵。\n7. 發展客戶社群。\n8. 透過社交媒體平臺改善與客戶的溝通。\n9. 推出新產品和服務以滿足客戶需求。\n10. 使用遊戲化使活動更具吸引力。"
+    },
+    {
+        "instruction": "總結一篇有關現代物理學基本原理的文章。",
+        "input": "現代物理學基於四個基本原理。第一個是相對性原理，它宣告物理定律不依賴觀察者的位置或運動。第二個是量子力學原理，它宣告能量和物質只能存在於離散的小包中。第三個是能量和動量守恆原理，它宣告能量和/或動量既不能被創造也不能被摧毀。第四個是因果關係原理，它宣告所有行動都有後果，未來由過去決定。",
+        "output": "現代物理學原理依賴四個核心概念：相對性原理、量子力學原理、能量和動量守恆原理以及因果關係原理。相對性原理指出物理定律與觀察者的位置或動量無關。量子力學原理指出能量和物質以離散的小包存在。它還指出能量和動量守恆，這意味著它們既不能被創造也不能被摧毀。最後，因果關係原理指出未來的事件是由過去決定的。"
+    },
+    {
+        "instruction": "Assess the validity of the following statement: \"Computers are more efficient than humans for data entry tasks.\"",
+        "input": "",
+        "output": "這個陳述是有效的，因為電腦更適合快速而準確地輸入大量資料。電腦能夠比人類更快地處理和儲存資料，並減少錯誤。此外，電腦比人類更適合需要繁瑣和重複任務的資料輸入任務。人類更適合需要決策的資料輸入任務，例如處理不完整或模糊的資料。"
+    },
+    {
+        "instruction": "建立一個針對兒童的電腦遊戲，關於亞馬遜雨林中不同的動物物種。",
+        "input": "",
+        "output": "電腦遊戲應該旨在教導孩子們關於亞馬遜雨林中不同動物物種。遊戲應該有教育重點，並應該教導孩子們關於每種動物物種的獨特特徵、棲息地、飲食和行為。遊戲應該具有生動和視覺上吸引人的圖形，以及小遊戲、挑戰和獎勵，以保持孩子們的參與度。遊戲還應包括一個競爭元素，例如排行榜和排名，以激勵玩家學習更多。"
+    },
+    {
+        "instruction": "機器人技術如何用於災難救援？",
+        "input": "",
+        "output": "機器人可以以多種方式協助災難救援。機器人可以部署到危險或無法進入的區域搜尋倖存者。它們還可以用於運輸物資到偏遠地區或疏散受傷人員。機器人可以幫助檢測環境中的危險物質，進行偵察和勘測任務以確定損壞的程度。最後，機器人還可以用於協助清理殘骸和基礎設施恢復。"
+    },
+    {
+        "instruction": "尋找面積最大的三個國家。",
+        "input": "<沒有輸入>",
+        "output": "面積最大的三個國家分別是俄羅斯、加拿大和美國，面積分別為17,098,242平方公里、9,984,670平方公里和9,833,517平方公里。"
+    },
+    {
+        "instruction": "給定使用者查詢，檢測意圖並以合適的答案進行響應。",
+        "input": "網友提問：珠穆朗瑪峰有多高？",
+        "output": "珠穆朗瑪峰高 8,848 米（29,029 英尺）。"
+    },
+    {
+        "instruction": "Draft a tweet summarizing a recent event",
+        "input": "",
+        "output": "拜登政府宣佈了新的倡議，以應對氣候變化，包括設定到2050年淨零排放的目標。#氣候變化 #淨零排放 #拜登政府"
+    },
+    {
+        "instruction": "列出計算機的三個元件。",
+        "input": "",
+        "output": "計算機的三個組成部分是處理器、RAM 和儲存裝置。"
+    },
+    {
+        "instruction": "Summarize the given article and keep the summary to less than 50 words.",
+        "input": "https://www.sciencemag.org/news/2019/04/biased-algorithms-are-killing-people-prominent-ai-researchers-warn",
+        "output": "AI演演算法由於不精確的決策過程而產生道德風險，AI研究人員警告，如果不解決這個問題，演演算法將導致錯誤的死亡和其他不良後果。AI研究人員發出警告，有偏見的演演算法有可能造成嚴重的傷害。"
+    },
+    {
+        "instruction": "使用提供的資訊更新所給予的檔案。",
+        "input": "檔案：\n\n約翰·史密斯是一名軟體工程師，他在ABC公司工作了7年。他在軟體開發和產品設計方面擁有豐富的經驗。\n\n其他資訊：\n\n- 約翰於2018年晉升為技術主管\n- 他的團隊正在開發新的XYZ專案",
+        "output": "約翰·史密斯是一名軟體工程師和技術主管，他在ABC公司工作了7年。他在軟體開發和產品設計方面的豐富經驗對他們的新XYZ專案起了重要作用。在2018年，他還被晉升為技術主管。"
+    },
+    {
+        "instruction": "辨識以下哪些地區位於南美洲：阿根廷、巴西、中國、墨西哥。",
+        "input": "",
+        "output": "阿根廷和巴西在南美洲。中國和墨西哥不在。"
+    },
+    {
+        "instruction": "尋找前往巴貝多一週度假的平均價格。",
+        "input": "",
+        "output": "巴貝多一週度假的平均價格為$3,649。"
+    },
+    {
+        "instruction": "Automatically insert a semicolon at the end of this line of code",
+        "input": "print(\"Hello World!\")",
+        "output": "列印(\"Hello World!\");"
+    },
+    {
+        "instruction": "想想一個最終並不是犯罪的罪行。",
+        "input": "",
+        "output": "爆米花大盜：一名爆米花小偷因從電影院偷走爆米花而被逮捕，但事實上這些爆米花是一個「失物招領」箱子，小偷只是將它歸還給其合法所有人。"
+    },
+    {
+        "instruction": "完成文章結論。",
+        "input": "本文討論了最近釋出的新影片遊戲《動物之森：新視野》。",
+        "output": "總之，《動物之森：新視野》是一款革命性的遊戲，吸引了數百萬玩家的注意。它不僅提供了無與倫比的遊戲體驗，而且還為玩家提供了透過精美的圖形和引人入勝的內容虛擬探索世界的機會。"
+    },
+    {
+        "instruction": "「飽和脂肪和不飽和脂肪有什麼區別？」",
+        "input": "",
+        "output": "飽和脂肪和不飽和脂肪的區別在於，飽和脂肪主要包含單鍵碳原子，而不飽和脂肪則包含一個或多個雙鍵碳原子。飽和脂肪在室溫下是固體，通常存在於動物產品中，如牛肉和奶油，而不飽和脂肪通常在室溫下是液體，通常存在於植物油中，如橄欖油和菜籽油。"
+    },
+    {
+        "instruction": "寫三個句子來描述一個寧靜的海灘",
+        "input": "",
+        "output": "1. 陽光在清澈湛藍的海洋上閃閃發光，波濤洶湧。\n2. 微風拂過，沙灘上的白沙閃閃發光。\n3. 一群海鷗在上面翱翔，隨著洶湧的海浪鳴叫和歌唱。"
+    },
+    {
+        "instruction": "建立一個資料庫表格的架構。",
+        "input": "這張表格將包含有關客戶的資訊（姓名、地址、電子郵件等）。",
+        "output": "客戶資料庫表格應包括以下列：姓名、地址、電子郵件、電話號碼、註冊日期、最後更新日期和客戶狀態。客戶姓名應包括名字和姓氏，地址應包括地址行1和地址行2，電子郵件應該是有效且唯一的，電話號碼應遵循特定格式，註冊日期應預設為當前日期，最後更新日期應指示客戶資訊上次編輯的時間，客戶狀態應指示活躍、非活躍或待定。"
+    },
+    {
+        "instruction": "Create a logical sentence using these words: [\"allow\", \"help\", \"it\", \"learning\", \"machine\", \"to\"]",
+        "input": "",
+        "output": "允許它協助機器學習。"
+    },
+    {
+        "instruction": "Design an experience for the given user type.",
+        "input": "New mothers",
+        "output": "一個旨在引導和支援新媽媽度過育兒旅程的手機應用程式。該應用程式提供母親和嬰兒的個性化每日時間表，常見問題的資源，社群論壇以獲得支援，以及有關育兒和育兒的教育內容。該應用程式還會提供實時提醒和警報，以在嬰兒的日常例行程式、新里程碑和健康更新到來時提醒母親。"
+    },
+    {
+        "instruction": "Add a few adjectives to the given sentence to make it interesting.",
+        "input": "She is moving out.",
+        "output": "她興奮地搬出去開始新的生活。"
+    },
+    {
+        "instruction": "Tell me a seductive phrase I can use to flirt.",
+        "input": "",
+        "output": "我一定是雪花，因為我已經為你墜落了。"
+    },
+    {
+        "instruction": "計算 7、8、6 和 9 的平均值。",
+        "input": "7, 8, 6, 9",
+        "output": "7、8、6、9的平均值為7.75。"
+    },
+    {
+        "instruction": "計算以下資訊的淨現值。",
+        "input": "折現率 = 6%\n現金流 = -$1000\n年數 = 15",
+        "output": "給定資訊的現值淨值為-$819.32。"
+    },
+    {
+        "instruction": "Put the following numbers in ascending order: 3,6,8,7,9",
+        "input": "",
+        "output": "3,6,7,8,9 的繁體中文翻譯為：「三、六、七、八、九」。"
+    },
+    {
+        "instruction": "計算 132 乘以 8 的結果。",
+        "input": "",
+        "output": "1056"
+    },
+    {
+        "instruction": "假裝你是旅行社代理，為一個五口之家創造一個夢想假期。",
+        "input": "",
+        "output": "一個五口之家的夢幻假期可能包括前往夏威夷旅遊。這個家庭可以住在瓦伊基基海灘的全包式酒店，探索島上美麗的海灘和自然風光，參加當地的活動，例如乘船遊覽、浮潛和在清澈的海水中潛水。他們還可以乘坐直升機到火山頂上，徒步旅行挑戰性的小徑，參觀歷史悠久的珍珠港博物館，並花一天時間遊覽當地的文化和觀光景點。"
+    },
+    {
+        "instruction": "想像一個情境並描述場景。",
+        "input": "型別：歷史小說\n時間：19世紀初",
+        "output": "場景設定在19世紀初的一個小村莊。這個村莊藏在鄉間的山谷中，被起伏的山丘和廣闊的綠色耕地所環繞。村民們簡單的木屋沿街而建，賦予這個地方一種古樸而舒適的魅力。遠離更大、更工業化的城鎮的喧囂，村民們在這裡過著簡單的生活，依靠他們的土地和牲畜群來維持生計。"
+    },
+    {
+        "instruction": "在書架上排列8本書。",
+        "input": "書名：弗蘭肯斯坦、1984、黑暗之心、戰爭與和平、傲慢與偏見、利維坦、奧賽羅、以及麥田捕手。",
+        "output": "這些書應該按照以下順序排列：《科學怪人》、《傲慢與偏見》、《奧賽羅》、《麥田捕手》、《黑暗之心》、《戰爭與和平》、《1984》和《利維坦》。"
+    },
+    {
+        "instruction": "列出三個在歷史上被忽略的美國歷史方面。",
+        "input": "",
+        "output": "1. 原住民對美國社會的影響\n2. 女性在美國勞工歷史中的角色\n3. 非裔美國人對科學、技術和醫學發展的貢獻。"
+    },
+    {
+        "instruction": "Identify a common problem in your community and think of a possible solution for it.",
+        "input": "",
+        "output": "我們社群普遍存在的問題之一是缺乏新鮮產品的進入。許多當地的雜貨店價格過高且位置不便。為瞭解決這個問題，我希望在社群設立一個當地農民市場，讓當地農民以更合理的價格出售他們的產品。這將使新鮮水果和蔬菜對社群居民更加可及和負擔得起。"
+    },
+    {
+        "instruction": "給一副對聯，完成。",
+        "input": "生活就像一條河流",
+        "output": "人生就像一條河流，永遠流淌，永遠變化。"
+    },
+    {
+        "instruction": "寫一個段落的故事，關於一個在多次嘗試後失敗的人。",
+        "input": "",
+        "output": "約翰一直夢想著取得成功，但他很難堅持一條能讓他更接近希望和夢想的道路。他相信自己有足夠的才華和智慧來克服任何阻礙，而且他比他認識的任何人都更加努力地工作。然而，儘管他不懈的努力，他的成功嘗試似乎一次又一次地以失望和失敗告終。他常常想知道為什麼他的辛勤工作和奉獻沒有得到回報，但他從未放棄他的抱負。他堅定地向前推進，直到最終他的努力得到了他長期以來一直追求的成功。"
+    },
+    {
+        "instruction": "將給定的動詞更改為其過去的完美形式。",
+        "input": "拿",
+        "output": "採取"
+    },
+    {
+        "instruction": "預測這個句子中的下三個詞：",
+        "input": "我無法相信那件事。",
+        "output": "我無法相信這是真的。"
+    },
+    {
+        "instruction": "建議三種應對疫情疲勞的方法。",
+        "input": "",
+        "output": "1. 優先休息 - 在一天中定期休息，放鬆一下，散步或做其他你喜歡的事情。\n2. 情感上聯絡 - 定期與朋友和家人交談，保持聯絡，分享你的想法和擔憂。\n3. 照顧你的身體健康 - 定期運動和飲食營養豐富，以對抗疫情疲勞的影響，提高你的情緒。"
+    },
+    {
+        "instruction": "Compute the factorial of 10.",
+        "input": "",
+        "output": "10的階乘是3628800。"
+    },
+    {
+        "instruction": "Given a sequence of numbers, rearrange them in ascending order.",
+        "input": "8 5 2 9 1",
+        "output": "1 2 5 8 9 的繁體中文翻譯為：「一 二 五 八 九」。"
+    },
+    {
+        "instruction": "Adapt the provided joke to make it more humorous.",
+        "input": "Why did the frog cross the road?",
+        "output": "為什麼青蛙去商店？因為他想買一雙鞋，需要跳到那裡去！"
+    },
+    {
+        "instruction": "給試圖戒菸的人建議。",
+        "input": "",
+        "output": "擁有計劃，注意觸發因素，嘗試不同的應對技巧，並利用可用的資源，可以幫助想戒菸的人。尋求家人和朋友的支援，發展積極健康的活動也有助於戒菸。"
+    },
+    {
+        "instruction": "給定一個句子和一個單詞，寫一個新句子，包含給定的單詞，並保留原句的意思。",
+        "input": "人生充滿變數，但也充滿了美好。",
+        "output": "生命可以美好而且不可預測。"
+    },
+    {
+        "instruction": "Describe three significant events in World War I.",
+        "input": "",
+        "output": "第一次世界大戰中最重要的三件事包括1914年戰爭爆發、1917年美國加入戰爭和1918年簽署停戰協定。"
+    },
+    {
+        "instruction": "Given the following sentence, replace the underlined word with a synonym. Output the edited sentences.",
+        "input": "The window pane was decrepit.",
+        "output": "窗玻璃已破舊不堪。"
+    },
+    {
+        "instruction": "Generate ideas on how to celebrate a special day.",
+        "input": "",
+        "output": "慶祝特別的日子的想法可以包括在當地公園組織野餐，與親密的朋友和家人舉辦晚宴，或者去一日遊探索新城市。如果遠端慶祝，可以安排一個虛擬慶祝活動，包括遊戲和其他活動。"
+    },
+    {
+        "instruction": "Place the given phrases in the correct order to form a sentence.",
+        "input": "It not is on job the that difficult.",
+        "output": "這份工作並不困難。"
+    },
+    {
+        "instruction": "使用SQL命令查詢給定的資料庫。",
+        "input": "表名：部門\n欄位：部門編號、部門名稱、部門程式碼",
+        "output": "從Department表中選擇所有欄位，按照DepartmentName排序；"
+    },
+    {
+        "instruction": "拿這句話來說，用一個同義詞來代替“敗”字：他在比賽中被打敗了。",
+        "input": "",
+        "output": "他在比賽中被打敗了。"
+    }
+]
